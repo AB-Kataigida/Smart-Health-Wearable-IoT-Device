@@ -27,10 +27,10 @@ I must have my email and password created in firebase*/
 
 
 
-#define API_KEY "AIzaSyAnFC7vweOJhWXnyUGBHYlgXIUDZC3pEIU"  //Got it from Firebase under general settings
-#define DATABASE_URL "https://smart-healthcare-iot-device-default-rtdb.europe-west1.firebasedatabase.app/"
-#define USER_EMAIL "abbuhle95@gmail.com"
-#define USER_PASSWORD "#Abenentle2001"
+#define API_KEY "YOUR_API_KEY HERE"  //Got it from Firebase under general settings
+#define DATABASE_URL "https:......."
+#define USER_EMAIL "....your user email...."
+#define USER_PASSWORD "#User email password"
 
 // ECG pins
 #define ECG_PIN 34
