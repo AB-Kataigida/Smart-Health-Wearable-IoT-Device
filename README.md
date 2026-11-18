@@ -8,4 +8,4 @@ Uses an accelerometer for forward or backward movement sensing relevant to Earth
 Uses a gyroscope for rotation motion.
 
 ESP32 simultaneously reads the data via Arduino IDE then sends it to Firebase Realtime database (for live feed) data storage and update, 
-and web dashboard via path "/Device", for ,monitoring.
+and web dashboard via path "/Device", for monitoring.
